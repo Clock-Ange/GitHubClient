@@ -3,7 +3,7 @@ Current project might be the first serious one on my GitHub account. It's purpos
 
 # Screenshots
 
-![](images/1.png){:height="50%" width="50%"}
-![](images/2.png){:height="50%" width="50%"}
-![](images/3.png){:height="50%" width="50%"}
-![](images/4.png){:height="50%" width="50%"}
+<img src="https://github.com/Clock-Ange/GitHubClient/blob/master/images/1.png" width="621" height="1344">
+<img src="https://github.com/Clock-Ange/GitHubClient/blob/master/images/1.png" width="621" height="1344">
+<img src="https://github.com/Clock-Ange/GitHubClient/blob/master/images/1.png" width="621" height="1344">
+<img src="https://github.com/Clock-Ange/GitHubClient/blob/master/images/1.png" width="621" height="1344">
