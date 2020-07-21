@@ -3,7 +3,7 @@ Current project might be the first serious one on my GitHub account. It's purpos
 
 # Screenshots
 
-![](images/1.png) 
-![](images/2.png)
-![](images/3.png) 
-![](images/4.png)
+![](images/1.png){:height="50%" width="50%"}
+![](images/2.png){:height="50%" width="50%"}
+![](images/3.png){:height="50%" width="50%"}
+![](images/4.png){:height="50%" width="50%"}
